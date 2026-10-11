@@ -1,2 +1,3 @@
-# painel-vida
-Painel pessoal de rotina, tarefas, responsabilidades e metas
+# Painel da Vida
+
+Painel pessoal para organizar rotina, tarefas, responsabilidades e metas.
